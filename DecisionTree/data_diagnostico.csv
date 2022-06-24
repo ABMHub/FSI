@@ -1,0 +1,13 @@
+Paciente,Febre,Dor_Muscular,Manchas,Coceira,Diagnóstico
+P1,Alta,Frequente,Presente,Intensa,Emergência
+P2,Moderada,Rara,Presente,Inexistente,Urgência
+P3,Nenhuma,Frequente,Ausente,Inexistente,Mais_Exames
+P4,Alta,Frequente,Ausente,Intensa,Emergência
+P5,Moderada,Permanente,Presente,Inexistente,Urgência
+P6,Moderada,Permanente,Ausente,Intensa,Urgência
+P7,Alta,Permanente,Presente,Inexistente,Emergência
+P8,Alta,Permanente,Ausente,Inexistente,Emergência
+P9,Moderada,Frequente,Ausente,Moderada,Mais_Exames
+P10,Moderada,Frequente,Ausente,Intensa,Emergência
+P11,Nenhuma,Rara,Presente,Moderada,Mais_Exames
+P12,Alta,Rara,Presente,Moderada,Urgência
